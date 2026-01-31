@@ -61,6 +61,3 @@ Clinical Decision Support System (CDSS)
    python -m clinical_agents.cli
    ```
 
-[Previous sections continue with the rest of the installation guide...]
-
-
